@@ -1,7 +1,9 @@
-BackendApiChallenge: 
+# BackendApiChallenge: 
 ---
 ## Link para meu codesanbox: 
 * https://codesandbox.io/s/testedeestagio-jfsz9
+
+## Desafio Bônus está na pasta raiz e se chama "desafio_bonus.sql"
 
 # Doc De Teste API: 
 Para a criação da API foram utlizados: `Express`, `Knex`, `PostgresSQL`. Portanto, é necessário instalá-los em sua máquina 
